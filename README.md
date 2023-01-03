@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alireza-mandegar
-- 👀 I’m interested in coding specially golang and python
+- 👀 I’m interested in coding specially go and python
 - 🌱 I’m currently learning golang
 - 💞️ I'm looking to collaborate on cloud computing positions
 - 📫 How to reach me: Telegram: https://t.me/Alireza_Mandegar
