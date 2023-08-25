@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alireza-mandegar
 - 👀 I’m interested in coding specially go and python
 - 🌱 I’m currently learning incident handling
-- 💞️ I'm looking to collaborate on cloud computing positions
+- 💞️ I'm looking to collaborate on SOC Teams
 - 📫 How to reach me: Telegram: https://t.me/Alireza_Mandegar
 
 <!---
