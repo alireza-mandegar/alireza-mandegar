@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alireza-mandegar
 - 👀 I’m interested in coding specially C++ and python
-- 🌱 I’m currently learning ...
-- 💞️ I'm looking to collaborate on SOC Teams
+- 🌱 I’m currently learning Web Application Technologies
+- 💞️ I'm looking to collaborate on Data Analysis Role
 - 📫 How to reach me: Telegram: https://t.me/Alireza_Mandegar
 
 <!---
