@@ -3,7 +3,6 @@
 - 🕸️ This is my [website](https://alireza-mandegar.github.io/DarkByte)
 - 🌱 I’m currently learning Web Application Technologies
 - 💞️ I'm looking to collaborate on Data Analysis Role
-- 📫 How to reach me: Telegram: https://t.me/Alireza_Mandegar
 
 <!---
 alireza-mandegar/alireza-mandegar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
